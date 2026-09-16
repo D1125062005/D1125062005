@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Full Stack Developer
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwNG43bGdqZTJ4bHVyeGgwbno0bnhiNnEyMzEzdTh0dzdtaWZsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErUozXytL68TNB6PEp/giphy.gif" width="1000" height="1000" />
 --------------------
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 * 🌍  I'm based in Thailand
@@ -15,4 +16,4 @@ Full Stack Developer
 
 <p align="left"> <a href="https://www.github.com/D112125062005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/D112125062005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwNG43bGdqZTJ4bHVyeGgwbno0bnhiNnEyMzEzdTh0dzdtaWZsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErUozXytL68TNB6PEp/giphy.gif" width="100" height="100" />
+
