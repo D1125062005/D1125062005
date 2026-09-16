@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer
 --------------------
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [arisa.proe@ku.th](mailto:arisa.proe@ku.th)
 
