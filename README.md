@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Full Stack Developer
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwNG43bGdqZTJ4bHVyeGgwbno0bnhiNnEyMzEzdTh0dzdtaWZsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErUozXytL68TNB6PEp/giphy.gif" width="1000" height="1000" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwNG43bGdqZTJ4bHVyeGgwbno0bnhiNnEyMzEzdTh0dzdtaWZsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErUozXytL68TNB6PEp/giphy.gif" width="500" height="500" />
 --------------------
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 * 🌍  I'm based in Thailand
